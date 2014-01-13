@@ -1,0 +1,7 @@
+C:\DATA\SourceControll\Elektronics\suf-electronics-MCP2200\Software\MCP2200.net\TEST01\bin\Debug\TEST01.exe.config
+C:\DATA\SourceControll\Elektronics\suf-electronics-MCP2200\Software\MCP2200.net\TEST01\bin\Debug\TEST01.exe
+C:\DATA\SourceControll\Elektronics\suf-electronics-MCP2200\Software\MCP2200.net\TEST01\bin\Debug\TEST01.pdb
+C:\DATA\SourceControll\Elektronics\suf-electronics-MCP2200\Software\MCP2200.net\TEST01\bin\Debug\SimpleIO-M.dll
+C:\DATA\SourceControll\Elektronics\suf-electronics-MCP2200\Software\MCP2200.net\TEST01\obj\Debug\TEST01.csprojResolveAssemblyReference.cache
+C:\DATA\SourceControll\Elektronics\suf-electronics-MCP2200\Software\MCP2200.net\TEST01\obj\Debug\TEST01.exe
+C:\DATA\SourceControll\Elektronics\suf-electronics-MCP2200\Software\MCP2200.net\TEST01\obj\Debug\TEST01.pdb
