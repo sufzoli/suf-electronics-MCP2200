@@ -24,6 +24,25 @@ namespace TEST01
             isConnected = SimpleIOClass.IsConnected();
 
             Console.WriteLine(isConnected ? "The device is connected." : "The device is NOT connected.");
+            if(isConnected)
+            {
+                if(SimpleIOClass.ConfigureMCP2200(0, 115200, 0, 0, false, false, false, false))
+                {
+                    Console.WriteLine("Configuration set");
+                    if(SimpleIOClass.WritePort(0xff))
+                    {
+                        Console.WriteLine("All LED Switched on");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Transmission Error");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Transmission Error");
+                }
+            }
         }
     }
 }
